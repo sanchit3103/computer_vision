@@ -6,12 +6,33 @@ This project focuses on detection and matching of features between two images ta
 
 ## Project implementation
 
+### Original images
 <p align="center">
   
-  <img src = "https://user-images.githubusercontent.com/4907348/228251530-3d8e6822-12ca-4656-aaaf-48e2cf634432.png"/>, &nbsp;&nbsp; <img src = "https://user-images.githubusercontent.com/4907348/228252060-6e6f1197-be92-468f-99d1-64c1ec9ec02f.png"/>, &nbsp;&nbsp; <img src = "https://user-images.githubusercontent.com/4907348/228252308-7138efe5-b00d-4911-b75b-e16f6d38df80.png"/>, &nbsp;&nbsp; <img src = "https://user-images.githubusercontent.com/4907348/228252532-2900acd1-5a0d-4a2a-bfe9-65db99d129c8.png" /> 
+  <img src = "https://user-images.githubusercontent.com/4907348/228251530-3d8e6822-12ca-4656-aaaf-48e2cf634432.png"/> 
   
 </p>
 
+### Feature detection
+<p align="center">
+  
+  <img src = "https://user-images.githubusercontent.com/4907348/228252060-6e6f1197-be92-468f-99d1-64c1ec9ec02f.png"/>
+  
+</p>
+
+### Feature matching
+<p align="center">
+  
+  <img src = "https://user-images.githubusercontent.com/4907348/228252308-7138efe5-b00d-4911-b75b-e16f6d38df80.png"/>
+  
+</p>
+
+### Feature matching after outlier rejection
+<p align="center">
+  
+  <img src = "https://user-images.githubusercontent.com/4907348/228252532-2900acd1-5a0d-4a2a-bfe9-65db99d129c8.png" /> 
+  
+</p>
 
 
 
